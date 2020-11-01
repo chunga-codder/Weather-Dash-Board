@@ -1,11 +1,11 @@
 #page_header{
     text-align: center;
-    background-color:#3d6488;
+    background-color:#853d88;
     font-family: 'Open Sans Condensed', sans-serif;
     color: white
     }
     .listbtn{
-    background-color: #3d6488;
+    background-color: #853d88;
     color: white;
     font-family: 'Open Sans Condensed', sans-serif;
     border-radius: 2px;
@@ -20,11 +20,11 @@
     height: 100%;
     }
     .card-body{
-    background-color: #3d6488;
+    background-color: #853d88;
     color: white;
     }
     #searchbtn{
-    background-color: #3d6488;
+    background-color: #853d88;
     color: white;
     font-family: 'Open Sans Condensed', sans-serif;
     border-radius: 2px;
