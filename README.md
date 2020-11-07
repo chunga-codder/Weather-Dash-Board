@@ -12,7 +12,7 @@ A vanilla css stylesheet, and the jQuery file weather.js
 
 You can asses my app through this links 
 Got hub : https://github.com/chunga-codder/Weather-Dash-Board
-Live link : 
+Live link : https://chunga-codder.github.io/Weather-Dash-Board/
 
 <h3>Known Issues / Bugs</h3>
 
