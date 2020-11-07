@@ -11,7 +11,8 @@ A vanilla css stylesheet, and the jQuery file weather.js
 ![IMG_20201107_094337_5](https://user-images.githubusercontent.com/71171928/98436718-0003a700-20de-11eb-8ac1-9378e7d9f344.jpg)
 
 You can asses my app through this links 
-Got hub : 
+Got hub : https://github.com/chunga-codder/Weather-Dash-Board
+Live link : 
 
 <h3>Known Issues / Bugs</h3>
 
